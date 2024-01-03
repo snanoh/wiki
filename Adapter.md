@@ -4,7 +4,7 @@
 기존 코드를 클라이언트가 사용하는 구현체로 바꿔주는 패턴  
 * 클라이언트가 사용하는 인터페이스를 따르지 않는 기존 코드를 재상요 할 수 있게 해준다.  
 
-![Adapter](./img/Adapter.png) 
+![Adapter](./image/Adapter.png) 
 
 
 
