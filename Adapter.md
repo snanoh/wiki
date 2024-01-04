@@ -15,8 +15,9 @@
 단점  
 * 새로운 클래스 떄문에 복잡도가 증가할 수 있다.  
 
-```
+```kotlin:adpater.kt
 package adpater
+
 //접근하는 타겟
 interface Target {
   fun specificMethod(data: Int)
