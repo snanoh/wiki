@@ -1,7 +1,7 @@
 # Iterator 패턴
 어떤 집합 객체를 순회하는 패턴 (내부 내용을 노출하지 않는 것이 포인트)  
 
-![Iterator](./image/Iterator.png)
+![Iterator](Iterator.png)
 
 장점  
 * 집합객체가 어떤 구조(List,Set,Map) 되어 있는지 몰라도 된다(SRP, OCP)
